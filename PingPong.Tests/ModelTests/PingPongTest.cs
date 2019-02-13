@@ -10,21 +10,21 @@ namespace PingPong.Tests
     public void IsPingPongNumber_NumberDivisibleByThreeAndFive_True()
     {
       PingPong testPingPong = new PingPong();
-      Assert.AreEqual(true, testPingPong.IsPingPongNumber(15));
+      Assert.AreEqual("Ping-Pong", testPingPong.IsPingPongNumber(15));
     }
 
     [TestMethod]
     public void IsPingPongNumber_NumberDivisibleByFive_True()
     {
       PingPong testPingPong = new PingPong();
-      Assert.AreEqual(true, testPingPong.IsPingPongNumber(9));
+      Assert.AreEqual("Pong", testPingPong.IsPingPongNumber(10));
     }
 
     [TestMethod]
     public void IsPingPongNumber_NumberDivisibleByThree_True()
     {
       PingPong testPingPong = new PingPong();
-      Assert.AreEqual(true, testPingPong.IsPingPongNumber(8));
+      Assert.AreEqual("Ping", testPingPong.IsPingPongNumber(6));
     }
   }
 }
