@@ -1,0 +1,17 @@
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp1.1\PingPong.Tests.csprojAssemblyReference.cache
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp1.1\PingPong.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp1.1\PingPong.Tests.AssemblyInfoInputs.cache
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp1.1\PingPong.Tests.AssemblyInfo.cs
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.Tests.deps.json
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.Tests.runtimeconfig.json
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.Tests.runtimeconfig.dev.json
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.Tests.dll
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.Tests.pdb
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.dll
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\bin\Debug\netcoreapp1.1\PingPong.pdb
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp1.1\PingPong.Tests.csproj.CopyComplete
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp1.1\PingPong.Tests.dll
+C:\Users\Pavel\Desktop\PingPong.Solution\PingPong.Tests\obj\Debug\netcoreapp1.1\PingPong.Tests.pdb
